@@ -1,3 +1,4 @@
 # Project exclude paths
 /out/
 /out/production/dataStructureAndAlgorithem/
+System.out.println("hello world");
